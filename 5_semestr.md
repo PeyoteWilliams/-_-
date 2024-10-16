@@ -1,0 +1,20 @@
+- [ ] базы данных
+- [ ] информационные системы и технологии
+	- [ ] на 3 сделать три лабы + тест (в телеграме)
+	- [ ] на 5 сделать еще 4 из шести лаб по cisco пакет трэйсер + тест (в телеграме)
+- [ ] вычислительные сети, системы и телекоммуникации
+	- [ ] сделать лабы (в телеграме)
+	- [ ] если сделали лабы оценка за экзамен 4. если хочешь 5 - блиц опрос (как минимум два вопроса, на обдумывание 10 минут) - если не смог, можно взять билет (в этом случае предыдущая работа аннулируется типа лаба уже не считается)
+- [ ] нечеткая логика
+- [ ] программная инженерия
+- [ ] экспертные системы
+	- [ ] сделать доклад на тему экспертных систем (можно связать с нейросетями)
+- [ ] интернет-программирование
+	- [ ] сдаем лабы в [облако](https://drive.google.com/drive/folders/1by-F2zeAvLVpEp4WFBEWIeERrsP0-hok)
+		- [ ] [1 лаба html](https://vk.com/doc92901287_684511736?hash=tFvXtn256J5eveiYSzGxWFB67KFeJz4zFmzzoqOw0rs&dl=s20KM1Hajt8anNZJ3IT2JfWW7RXKB8Egr10jYEhZK6o)
+		- [ ] [2 лаба гиперссылки и изображения](https://vk.com/doc92901287_684511743?hash=sEoZw4iWaXPFNxj3iW5Z3c2pKWNwzSVxL2Fbjfdd6L8&dl=AzdGnSeWPbMiseg94R5JSUni4zquudN7dZxLj3ejXJD)
+		- [ ] [3 лаба таблицы и списки](https://vk.com/doc92901287_684555381?hash=Mp5sjvENh6QkG64lGY3Yp6ciEhLzI7ZOhS9BUTjrORo&dl=tWZe6upzoF1PwhoSQgKBWBuWdFtv1iT871iZuqtelbD)
+			- [ ] [доп файл для лаб3](https://vk.com/doc92901287_684555380?hash=fPk5cB91B00Nixx6mLbzZdvfS2uh9iAiMzKOLUHuvWk&dl=g4s8LZ87Fi1c3zk4NAZUbFaZmYzz9pjKahQZgnK73G8)
+		- [ ] [5 лаба css](https://vk.com/doc92901287_684758882?hash=IrdC7Uq3u2tJ8nvzQSYt2u2FdFAS0EZzYyhZJHy7cvc&dl=mAaZB0vQ7LLhG3cur6ABBdzURbHIwy0ZiUw3Eo6ALT4)
+		- [ ] [6 лаба работа с блочными элементами](https://vk.com/doc92901287_684782171?hash=zqHYnD9cydBxvEZZzuOQXZHdtmrvhIXfz49emxJeLXk&dl=lmWpjetzCH3R1Sdl7kzrnKDtIFLxoxNl5u6ZK6c8FqP)
+		- [ ] [7 лаба css](https://vk.com/doc92901287_684829654?hash=mgVIzmc9U7IjmbeQL6AYCjpz8vON2k1pQI4ZTi3nV5D&dl=a337e9GA0U9CPGBxZJwAjGXUJl5OgribcvIFOBsRgak)
