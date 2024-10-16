@@ -1,2 +1,2 @@
 # Оглавление
-- [[5 семестр|5_семестр]] 
+- [5 семестр](https://peyotewilliams.github.io/UUST/5_semestr)
